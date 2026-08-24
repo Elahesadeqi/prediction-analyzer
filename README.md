@@ -1,5 +1,7 @@
 # Prediction Analyzer
 
+[![Run Tests](https://github.com/Elahesadeqi/prediction-analyzer/actions/workflows/tests.yml/badge.svg)](https://github.com/Elahesadeqi/prediction-analyzer/actions/workflows/tests.yml)
+
 ## Overview
 
 Prediction Analyzer is a Python-based pipeline for processing and analyzing machine learning model outputs.
